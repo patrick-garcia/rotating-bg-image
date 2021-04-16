@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: no-repeat center center fixed;
+  /*background-image: url('http://unsplash.it/g/2400/1600/?random');*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
